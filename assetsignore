@@ -1,0 +1,15 @@
+.git
+.git/**
+.github
+.github/**
+.wrangler
+.wrangler/**
+.gitignore
+.assetsignore
+wrangler.jsonc
+wrangler.toml
+node_modules
+node_modules/**
+*.py
+*.docx
+*.md
